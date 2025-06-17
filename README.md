@@ -14,3 +14,5 @@ no json use:
     "titulo": "Titulo do filme",
     "categoria": "Filme/Serie"
 }
+
+# INTEGRANTES: Lucas Martins Pereira, Pedro Henrique Assunção Medeiros, Tiago de Carvalho Estrada, Vinícius Araujo Ramos, e Wesley Mendes de Sousa
